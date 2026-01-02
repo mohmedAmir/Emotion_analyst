@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda/venv environment
+env/
+sentiment_env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Output files
+resulting_data.csv
