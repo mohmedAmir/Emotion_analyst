@@ -103,12 +103,13 @@ Results are displayed interactively
 Download results as CSV with one click
 
 # Example CSV
-csv
+```csv
 Copy code
 id,text,comment
 1,I love this project,هذا المشروع رائع
 2,This is bad,التجربة سيئة جدًا
 3,It is okay,عادي
+```
 # Results
 Polarity: Score from -1 (very negative) to +1 (very positive)
 
