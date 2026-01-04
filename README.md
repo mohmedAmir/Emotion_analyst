@@ -26,7 +26,7 @@ A professional Python project with **Clean Architecture** to analyze emotions fr
 ---
 
 # Project Structure
-
+```
 Emotion_Analyst/
 ├── src/
 │   ├── main.py          # Main entry point
@@ -50,6 +50,7 @@ Emotion_Analyst/
 # Installation
 
 1. Clone the repository:
+```
 
 ```
 git clone https://github.com/mohmedAmir/Emotion_analyst.git
