@@ -46,11 +46,10 @@ Emotion_Analyst/
 ├── app.py               # Streamlit interactive GUI
 └── requirements.txt     # Project dependencies
 ---
-
+```
 # Installation
 
 1. Clone the repository:
-```
 
 ```
 git clone https://github.com/mohmedAmir/Emotion_analyst.git
