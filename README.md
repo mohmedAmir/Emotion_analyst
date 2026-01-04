@@ -25,30 +25,29 @@ A professional Python project with **Clean Architecture** to analyze emotions fr
 
 ---
 
-##  Project Structure
+# Project Structure
 
 Emotion_Analyst/
 ├── src/
-│ ├── main.py # Main entry point
-│ ├── core/ # Core logic
-│ │ ├── cleaner.py
-│ │ ├── analyzer.py
-│ │ └── models.py
-│ ├── input/ # Input sources
-│ │ ├── text_input.py
-│ │ ├── txt_reader.py
-│ │ └── csv_reader.py
-│ └── output/ # Output modules
-│ ├── printer.py
-│ └── csv_writer.py
-├── data/ # Sample files
-│ └── sample.csv / sample.txt
-├── app.py # Streamlit interactive GUI
-└── requirements.txt # Project dependencies
-
+│   ├── main.py          # Main entry point
+│   ├── core/            # Core logic
+│   │   ├── cleaner.py
+│   │   ├── analyzer.py
+│   │   └── models.py
+│   ├── input/           # Input sources
+│   │   ├── text_input.py
+│   │   ├── txt_reader.py
+│   │   └── csv_reader.py
+│   └── output/          # Output modules
+│       ├── printer.py
+│       └── csv_writer.py
+├── data/                # Sample files
+│   └── sample.csv / sample.txt
+├── app.py               # Streamlit interactive GUI
+└── requirements.txt     # Project dependencies
 ---
 
-##  Installation
+# Installation
 
 1. Clone the repository:
 
