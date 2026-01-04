@@ -2,4 +2,4 @@ textblob==0.17.1
 pandas==2.3.3
 deep-translator
 langdetect
-
+streamlit
