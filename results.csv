@@ -1,0 +1,7 @@
+text,polarity,label
+i love this project,0.5,positive
+this is bad,-0.6999999999999998,negative
+it is okay,0.5,positive
+هذا المشروع رائع,0.6000000000000001,positive
+التجربة سيئة جدا,-0.9099999999999998,negative
+عادي,0.15,neutral
